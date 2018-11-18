@@ -15,4 +15,4 @@ obj
 *.pfx
 
 *_ReSharper.*/
-LoggingDemo/.vs/
+.vs/
